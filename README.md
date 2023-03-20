@@ -12,7 +12,8 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-This is an example of adding info to the introduction Deployment section.
+This is an example of adding info to the Deployment section.
 
-## How to Contribue
+## How to Contribute
 
+This is an example of adding info to the Contribute section.
